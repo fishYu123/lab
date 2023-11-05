@@ -8,6 +8,6 @@ public class myMain {
         highLightenPassage.getEntityFromExcel("D:\\Code\\java\\lab\\src\\main\\java\\com\\yyn\\com\\装备数据别名绰号舷号.xlsx");
         highLightenPassage.setHref("D:\\Code\\java\\lab\\src\\main\\java\\com\\yyn\\com\\装备数据别名绰号舷号.xlsx");
         System.out.println("switch yyn branch");
-        System.out.println("yyn");
+        System.out.println("yyn 456");
     }
 }
